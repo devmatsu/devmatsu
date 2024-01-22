@@ -1,6 +1,5 @@
 # 👋 Meet Matsu!
-I'm Rodrigo Matagawa, a passionate software engineer. You can call me Matsu! I currently work as a Software Engineer at Code7. </br>
-With over 5 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.
+I'm Rodrigo Matagawa, a passionate Software Engineer. You can call me Matsu! With over 5 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.
 
 
 # 🚀 Background
