@@ -9,7 +9,7 @@ Hi there! I'm Rodrigo Mɑtɑgɑwɑ, but you can call me Matsu. I'm a passionate 
 -  **API Design**: Skilled in building RESTful and GraphQL APIs to power modern applications.
 - **Infrastructure**: Experienced in hosting and scaling backend systems on AWS EC2, managing infrastructure with AWS CloudFormation, and containerizing applications using Docker.
 -  **DevOps**: Expertise in CI/CD pipelines using Jenkins and AWS CodePipeline. Proficient in AWS CloudWatch and CodeBuild for monitoring and automation.
-- **Code Quality**: Strong focus on writing clean, maintainable, and scalable code by adhering to Clean Code practices and SOLID principles in real-world applications. Experienced with tools like ESLint and Prettier, along with rigorous code review processes.
+- **Code Quality**: Strong focus on writing clean, maintainable, and scalable code by adhering to Clean Code practices and SOLID principles in real-world applications. Experienced with tools like ESLint and Prettier, along with rigorous code review process.
 - **Agile Practices**: Experienced in working with Kanban and Scrum methodologies to manage and deliver projects efficiently.
 
 I enjoy tackling intricate challenges and approach every project with enthusiasm, viewing obstacles as opportunities for growth. A quick learner, I continuously embrace new technologies and methodologies to deliver innovative results. 
