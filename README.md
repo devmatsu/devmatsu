@@ -2,8 +2,8 @@
 Hi there! I'm Rodrigo Mɑtɑgɑwɑ, but you can call me Matsu. I'm a passionate Software Engineer with over 5 years of experience in the field. Throughout my journey, I've worked on exciting projects and explored a variety of technologies.
   
 # 🚀 Expertise and Background
-- **Backend**: Proficient in Node.js (JavaScript & TypeScript), crafting efficient, robust, and maintainable server-side solutions.
-- **Serverless**: Specializing in applications built with AWS Lambda, leveraging cloud-native architectures for efficiency and resilience.
+- **Backend**: Proficient in Node.js (JavaScript & TypeScript), crafting efficient, robust, and maintainable server-side systems.
+- **Serverless**: Developing applications with AWS Lambda, Utilizing cloud-native technologies for scalable and reliable solutions.
 - **Messaging Systems**: Designing and integrating messaging platforms with AWS SQS and SNS for event-driven communication.
 - **Databases**: Proficient in MongoDB, DynamoDB, Redis, MySQL, SQL Server, and PostgreSQL.
 -  **API Design**: Skilled in building RESTful and GraphQL APIs to power modern applications.
